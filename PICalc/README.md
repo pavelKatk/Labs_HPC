@@ -1,6 +1,8 @@
 <h1> Calculate PI using the Monte Carlo method </h1>
 <b> Results </b>
 
+Эта программа позволяет рассчитать число π с использованием CPU и GPU с помощью метода Монте-Карло.
+
 <html>
 <head>
 <meta charset="utf-8">
